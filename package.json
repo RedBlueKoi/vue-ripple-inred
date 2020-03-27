@@ -1,11 +1,11 @@
 {
-  "name": "vue-ripple-directive",
-  "version": "2.0.1",
-  "description": "Vue Material Ripple Effect Directive",
+  "name": "vue-ripple-inred",
+  "version": "2.0.2",
+  "description": "Vue Material Ripple Effect Directive forked from the dead one",
   "main": "src/ripple.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PygmySlowLoris/vue-ripple-directive"
+    "url": "https://github.com/RedBlueKoi/vue-ripple-inred"
   },
   "keywords": [
     "vue",
@@ -16,19 +16,20 @@
     "button"
   ],
   "author": {
-    "name": "PygmySlowLoris Team",
-    "email": "team@pygmyslowloris.org",
-    "url": "https://github.com/PygmySlowLoris"
+    "name": "RBK",
+    "email": "bragin.inred@gmail.com",
+    "url": "https://github.com/RedBlueKoi"
   },
   "contributors": [
+    "RBK <bragin.inred@gmail.com> (https://github.com/RedBlueKoi)",
     "Guido Ceraso <guidoceraso@gmail.com> (https://github.com/hazzo)",
     "Eduardo Marcos <edujugon@gmail.com> (https://github.com/Edujugon)"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PygmySlowLoris/vue-ripple-directive/issues"
+    "url": "https://github.com/RedBlueKoi/vue-ripple-inred/issues"
   },
-  "homepage": "https://github.com/PygmySlowLoris/vue-ripple-directive#readme",
+  "homepage": "https://github.com/RedBlueKoi/vue-ripple-inred#readme",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules",
